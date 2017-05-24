@@ -1,6 +1,6 @@
 #Piano Sounds
 
-These are the piano sounds used by default for [pianocat](https://github.com/chilicuil/learn/blob/master/sh/tools/pianocat), provided kindly by [Martin Capodici](https://github.com/mcapodici/pianosounds) and the [University of Iowa](http://theremin.music.uiowa.edu/MISpiano.html).
+These are the piano sounds used by default for [pianocat](https://github.com/javier-lopez/learn/blob/master/sh/tools/pianocat), provided kindly by [Martin Capodici](https://github.com/mcapodici/pianosounds) and the [University of Iowa](http://theremin.music.uiowa.edu/MISpiano.html).
 
 This version differ in the following aspects with Martin's:
 
@@ -10,9 +10,9 @@ This version differ in the following aspects with Martin's:
 
 #Quick start
 
-    $ git clone --depth=1 git@github.com:chilicuil/pianosounds.git
+    $ git clone --depth=1 git@github.com:javier-lopez/pianosounds.git
     $ cd pianosounds #or mv pianosounds ~/.pianocat
-    $ wget https://raw.githubusercontent.com/chilicuil/learn/master/sh/tools/pianocat
+    $ wget https://raw.githubusercontent.com/javier-lopez/learn/master/sh/tools/pianocat
     $ sh pianocat
 
 Have fun!
